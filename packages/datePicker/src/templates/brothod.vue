@@ -7,7 +7,7 @@ export default {
     name: "brothod",
     data() {
         return {
-            love: "高中喜欢黑小雨"
+            love: ""
         }
     },
     methods:{
